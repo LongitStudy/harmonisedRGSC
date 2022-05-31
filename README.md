@@ -1,4 +1,4 @@
-# HarmonisedRGSC
+# Harmonised RGSC
 This STATA code harmonises LS member's RGSC across the 1971 - 2011 Censuses. It is needed because the coding used at each census differs:
 - 1971: 0 = I Professional; 1 = II Intermediate; 2 = IIIN Skilled Non-Manual; 3 = IIIM Skilled Manual; 4 = IV Partly Skilled; 5 = V Unskilled; 6 = Armed Forces; -1 = student or child; -2 = Other inactive; -9 = Missing)It only covers LS members with a valid RGSC code (i.e. not a negative value).
 - 1981: 0 = I Professional; 1 = II Intermediate; 2 = IIIN Skilled Non-Manual; 3 = IIIM Skilled Manual; 4 = IV Partly Skilled; 5 = V Unskilled; 7 = Armed Forces; 8 = Inadequately described; 9 = Student/ no occupation because permanently sick or disabled, housewife; -9 = Not applicable or no 1981 record .
